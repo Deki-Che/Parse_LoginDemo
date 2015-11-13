@@ -26,6 +26,7 @@
 		3EA407951BF4E4AB0044B31C /* libsqlite3.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 3EA407941BF4E4AB0044B31C /* libsqlite3.tbd */; };
 		3EEAD8591BF56F1600481E99 /* SingUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEAD8581BF56F1600481E99 /* SingUpViewController.swift */; };
 		3EEAD85B1BF5A28200481E99 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EEAD85A1BF5A28200481E99 /* MainViewController.swift */; };
+		3EEAD85D1BF5A82000481E99 /* Readme in Resources */ = {isa = PBXBuildFile; fileRef = 3EEAD85C1BF5A82000481E99 /* Readme */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +52,7 @@
 		3EA407971BF4E5260044B31C /* LoginDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LoginDemo-Bridging-Header.h"; sourceTree = "<group>"; };
 		3EEAD8581BF56F1600481E99 /* SingUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingUpViewController.swift; sourceTree = "<group>"; };
 		3EEAD85A1BF5A28200481E99 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
+		3EEAD85C1BF5A82000481E99 /* Readme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Readme; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				3EA407781BF4D7370044B31C /* Info.plist */,
 				3EA407971BF4E5260044B31C /* LoginDemo-Bridging-Header.h */,
 				3EEAD85A1BF5A28200481E99 /* MainViewController.swift */,
+				3EEAD85C1BF5A82000481E99 /* Readme */,
 			);
 			path = LoginDemo;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EEAD85D1BF5A82000481E99 /* Readme in Resources */,
 				3EA407771BF4D7370044B31C /* LaunchScreen.storyboard in Resources */,
 				3EA407741BF4D7370044B31C /* Assets.xcassets in Resources */,
 				3EA407721BF4D7370044B31C /* Main.storyboard in Resources */,
